@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\bin\Debug\net10.0\CampañaVacunacionCSharp.exe
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\bin\Debug\net10.0\CampañaVacunacionCSharp.deps.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\bin\Debug\net10.0\CampañaVacunacionCSharp.runtimeconfig.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\bin\Debug\net10.0\CampañaVacunacionCSharp.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\bin\Debug\net10.0\CampañaVacunacionCSharp.pdb
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\refint\CampañaVacunacionCSharp.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.pdb
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\CampañaVacunacionCSharp.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\CampañaVacunacionCSharp\CampañaVacunacionCovid-19CSharp\obj\Debug\net10.0\ref\CampañaVacunacionCSharp.dll
